@@ -6,3 +6,6 @@
 .pnp.*
 
 dist
+
+.idea
+node_modules
